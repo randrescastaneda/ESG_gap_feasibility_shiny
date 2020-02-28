@@ -1,0 +1,13 @@
+name: esg_gap_feasibility_shiny
+title: ESG_gap_feasibility_shiny
+username: acastanedaa
+account: acastanedaa
+server: w0lxpjekins05.worldbank.org
+hostUrl: http://w0lxpjekins05.worldbank.org:3939/__api__
+appId: 485
+bundleId: 2206
+url: http://w0lxpjekins05.worldbank.org:3939/content/485/
+when: 1580397719.41236
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: sessionInfoLog
