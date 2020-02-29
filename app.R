@@ -1,10 +1,8 @@
 library(shiny)
 library(plotly)
-setwd("../ESG_availability")
 source("_common.R")
-source("R/load_data.R")
-source("R/esg_filling_gap_feasibility.R")
-setwd("../ESG_gap_feasibility_shiny")
+source("load_data.R")
+source("esg_filling_gap_feasibility.R")
 
 # Define UI for application
 ui <- fluidPage(
