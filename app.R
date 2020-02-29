@@ -1,6 +1,10 @@
 library(shiny)
 library(plotly)
-source("_common.R")
+library(wbstats)
+library(ggplot2)
+library(readr)
+library(dplyr)
+#source("_common.R")
 source("load_data.R")
 source("esg_filling_gap_feasibility.R")
 
